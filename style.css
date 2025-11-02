@@ -1,0 +1,21 @@
+
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #fffbfe;
+            margin: 40px;
+        }
+
+        h1 {
+            color: #fb0baf;
+            border-bottom: 2px solid rgb(24, 24, 155);
+        }
+        
+        h2 {
+            color: rgb(254, 14, 186);
+        }
+
+        ul {
+            background-color: #d2d3d9;
+            padding: 20px;
+        }
+ 
